@@ -1,0 +1,22 @@
+/*
+ *  UCF COP3330 Fall 2021 Exercise 4 Solution
+ *  Copyright 2021 Joshua Romero
+ */
+
+Print "Enter a noun: "
+
+Input "User noun"
+
+Print "Enter a verb: "
+
+Input "User verb"
+
+Print "Enter an adjective: "
+
+Input "User adjective"
+
+Print "Enter an adverb: "
+
+Input "User adverb"
+
+Print ""Do you" user verb "your" user adjective user noun user adverb "That's hilarious!""
